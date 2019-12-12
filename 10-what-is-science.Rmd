@@ -1,32 +1,10 @@
-# Part 1: What is Science?
+# Part 1: What is Science? {#what-is}
 
-## Science is this
-:::{.slideshow}
-
-<iframe width="100%" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
-
-:::
-## video test
-
-:::{.video .center}
-
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/kXhJ3hHK9hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+:::{.centerpic}
+![](img/carl-sagan.jpg){width=70%}
 :::
 
-### pdf embed test
-
-<iframe src="./pdf/02-beginnings-of-science-2019.pdf" width="90%" height="500px"></iframe>
-
-
-### test of pdf with anchor tag
-
-[slides](./pdf/02-beginnings-of-science-2019.pdf){target="_blank"}
-
-### test of embedded slideshow
-
-
-
+Imagine for a moment what our lives would be like without science.
 
 
 

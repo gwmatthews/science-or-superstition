@@ -2,8 +2,7 @@
 
 We are all prone to believe in magic, in fact it seems to be built in to the human mind. Find out more about the psychological roots of magical thinking in this article from *Psychology Today*.
 
-
 :::{.embedcard}
-<a class="embedly-card" href="https://www.psychologytoday.com/articles/200803/magical-thinking" target="_blank" rel="noopener noreferrer">Magical Thinking</a>
-<script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.psychologytoday.com/articles/200803/magical-thinking">Magical Thinking</a></h4><p>Years after his death, John Lennon went on tour. He visited, among other locations, Oklahoma City, Waco, New Orleans, and Virginia Tech, spreading a message of peace and love at the sites of tragic events. You may not have recognized him, though, covered in scars and cigarette burns.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 :::

@@ -1,4 +1,5 @@
 bookdown::gitbook:
+  exclude: "README.md"
   includes:
      before_body: hypothesis.html
   css: g-style.css
