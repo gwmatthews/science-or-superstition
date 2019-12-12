@@ -13,3 +13,19 @@
 ### pdf embed test
 
 <iframe src="./pdf/02-beginnings-of-science-2019.pdf" width="90%" height="500px"></iframe>
+
+
+### test of pdf with anchor tag
+
+[slides](./pdf/02-beginnings-of-science-2019.pdf){target="_blank"}
+
+### test of embedded slideshow
+
+
+
+<iframe width="100%" height="600" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
+
+
+
+
+
