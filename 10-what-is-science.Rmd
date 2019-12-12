@@ -4,7 +4,7 @@
 
 ### video test
 
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/kXhJ3hHK9hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width: 90%; margin: auto;"><iframe width="95%" height="315" src="https://www.youtube.com/embed/kXhJ3hHK9hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### pdf embed test
 
