@@ -1,0 +1,11 @@
+---
+title: "Science or Superstition"
+subtitle: "readings and course resources"
+author: "George W. Matthews"
+date: "2019"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+github-repo: "gwmatthews/science-or-superstition"
+---
+
+# PYDI 2710 @ Plymouth State {-}

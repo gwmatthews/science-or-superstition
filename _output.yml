@@ -1,0 +1,19 @@
+bookdown::gitbook:
+  includes:
+     before_body: hypothesis.html
+  lib_dir: libs
+  number_sections: FALSE
+  split_by: section+number
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: yes
+      before: null
+      after: null
+    toolbar:
+      position: float
+    edit : null
+    download: null
+    search: yes
+    sharing: no
+    info: no
