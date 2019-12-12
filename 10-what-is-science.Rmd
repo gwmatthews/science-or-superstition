@@ -1,7 +1,11 @@
 # Part 1: What is Science?
 
 ## Science is this
+:::{.slideshow}
 
+<iframe width="100%" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
+
+:::
 ### video test
 
 :::{.video .center}
@@ -22,11 +26,7 @@
 ### test of embedded slideshow
 
 
-:::{.slideshow}
 
-<iframe width="100%" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
-
-:::
 
 
 
