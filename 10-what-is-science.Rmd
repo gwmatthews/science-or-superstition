@@ -22,10 +22,11 @@
 ### test of embedded slideshow
 
 
+:::{.slideshow}
 
-<iframe width="100%" height="600" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
+<iframe width="100%" src="https://gwmatthews.github.io/ethics-slideshows/01-introduction.html"></iframe>
 
-
+:::
 
 
 
