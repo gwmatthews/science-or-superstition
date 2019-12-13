@@ -2,7 +2,7 @@
 
 
 :::{.case}
-<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/esp.pdf" width="100%">
+<iframe src="./pdf/esp.pdf" width="100%">
 </iframe>
 :::
 
