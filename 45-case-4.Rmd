@@ -2,7 +2,7 @@
 
 
 :::{.case}
-<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/id.pdf" width="100%"></iframe>
+<iframe src="./pdf/4-id.pdf" width="100%"></iframe>
 :::
 
 http://sciencecases.lib.buffalo.edu/cs/files/id.pdf

@@ -2,7 +2,7 @@
 
 
 :::{.case}
-<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/mmr_autism.pdf" width="100%"></iframe>
+<iframe src="./pdf/5-mmr_autism.pdf" width="100%"></iframe>
 :::
 
 http://sciencecases.lib.buffalo.edu/cs/files/mmr_autism.pdf

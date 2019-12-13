@@ -3,7 +3,7 @@
 
 
 :::{.case}
-<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/nessie_flip.pdf" width="100%"></iframe>
+<iframe src="./pdf/2-nessie.pdf" width="100%"></iframe>
 :::
 
 http://sciencecases.lib.buffalo.edu/cs/files/nessie_flip.pdf
