@@ -2,7 +2,7 @@
 
 
 :::{.case}
-<iframe src="./pdf/salems_secrets.pdf" width="100%"></iframe>
+<iframe src="./pdf/3-salems_secrets.pdf" width="100%"></iframe>
 :::
 
 http://sciencecases.lib.buffalo.edu/cs/files/salem_secrets.pdf
