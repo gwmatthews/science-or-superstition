@@ -1,1 +1,12 @@
 ## Case study 5: Vaccination and autism {#case-5}
+
+
+:::{.case}
+<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/mmr_autism.pdf" width="100%"></iframe>
+:::
+
+http://sciencecases.lib.buffalo.edu/cs/files/mmr_autism.pdf
+
+:::{.case}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQQGaU6BC3Js8rmIhLmq5JH7PWibN_6366ZivKUsSDx9O1XQ/viewform?embedded=true" width="640" height="927" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+:::

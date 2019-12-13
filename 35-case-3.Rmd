@@ -1,1 +1,13 @@
 ## Case study 3: The Salem witch trials {#case-3}
+
+
+:::{.case}
+<iframe src="http://sciencecases.lib.buffalo.edu/cs/files/salem_secrets.pdf" width="100%"></iframe>
+:::
+
+http://sciencecases.lib.buffalo.edu/cs/files/salem_secrets.pdf
+
+
+:::{.case}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd18EhZCCd0yE8mIX_F19ZotdcTrTEQFs3B4Ew_ehchVt_Few/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+:::
