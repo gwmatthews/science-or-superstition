@@ -1,0 +1,9 @@
+## Freedom and determinism
+
+Our next philosophical interlude is an exploration of the difficult puzzle of human freedom in a material world. The problem is simple to state and maddeningly difficult to solve.
+
+:::{.question data-latex="" .infobox}
+
+If everything that happens in the material world is caused by physical forces acting according to necessary laws, how can we *really* do anything freely? Are we not just cogs in some vast machine compelled by the forces acting on us?
+
+:::
