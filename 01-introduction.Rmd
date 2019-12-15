@@ -1,5 +1,6 @@
 # Essentials
 
-Welcome to the readings and resources site for Science or Superstition taught by George Matthews at Plymouth State University. All readings and assignments can be found here as well as a calandar to help keep you organized and up to date on whhat is going on in the course. I hope you find this website easy to use and a helpful tool for getting the most out of this course. There are a couple of things to note about this site:
+Welcome to the readings and resources site for Science or Superstition taught by George Matthews at Plymouth State University. All readings and assignments can be found here as well as a calandar to help keep you organized and up to date on what is going on in the course. I hope you find this website easy to use and a helpful tool for getting the most out of this course. There are a couple of things to note about this site:
 
-1. There is a toolbar at the top of the page 
+1. There is a toolbar at the top of the page that enables you to expand or collapse the table of conetnts on the side, search for any keywords you like in the whole site, or change the color theme to make it easier on your eyes than the default stark white screen.
+2. You may also have noticed the left pointing arrow in the top right corner pf the screen. This is the Hypothes.is tools which is embedded in this website so you can highlight parts if the text, or add comments to parts of the text or wthe whole page. We'll be going over how to use Hypothes.is in class, but there is also a [tutorial](#hypothes-is) in the appendix at the end of the book.

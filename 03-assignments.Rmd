@@ -1,3 +1,35 @@
 ## Assignments
 
-### Using Hypothes.is
+### Blog posts
+
+This course makes use of two websites, this one and a WordPress blog hosted by Plymouth State University which [can be found here](http://gwmcubed.plymouthcreate.net/blog/) or by following the link at the top of the table of contents or from the course Moodle page. The blog is the place where everyone who is a student in the two sections of this class will write and post original articles related to the subject matter of this course. 
+
+The assignment for your blog posts is simple:
+
+- You can write about whatever you like as long as it is **_interesting and relevant_**, and that is up to you to decide.
+- Everyone in the course will write three posts over the course of the semester according to the schedule described below.
+- Each post should be *your original work,* and not `Ctrl+c` plagiarism. The point is to reflect on what we are doing in the course on your own terms and in your own voice.
+- Each post should be in the range of 500 - 750 words and can include media such as images, videos and so on as well as links to external articles or websites. It should look good and be fun to read -- style counts!
+
+#### Posting Schedule
+
+Everyone in the course will be randomly assigned to one of eight different groups. These groups are for three things.
+1. They determine *when you post* -- see the calendar for the complete set of dates for every group. You do not need to coordinate with your group, you share a deadline with them that is all.
+2. You'll work with them in class on various assignments like the case studies.
+3. You'll work with them on the Not Quite Science project described below.
+
+### Annotations with Hypothes.is
+
+Hypothes.is is a free tool designed to enable you to take notes on any page out there on the web, organize and find your notes, and engage in discussion with other not takers. We will have a class workshop on how to use it, but for reference there is also a [tutorial here](#hypothes-is).
+
+Your assignment is to use this tool to make notes on *any two pages every week* here on this site or linked to from this site as external reading material. Your notes can take the form of "annotations," where you comment on a particular section of text, "page notes" which connect to the page but not any particular part, or reponses to anyone else's annotations or page notes.
+
+**All notes and responses should take place within the SOS\@PSU private group** and will only by visible by other members of that group which is restricted to me and the people in this course.
+
+### Case studies
+
+There are five case studies that you will work on in class with your groups, one for each of the five sections of this course. All are available here as pdf documents with a short narrative account as well as other information needed to describe the case; and a Google form that you will fill out and submit in class with your group. You are welcome to read the cases ahead of time but that is not necessary. 
+
+### Group project
+
+Each group will work together on a longer term project involving the investtigation and critical analysis of some area of "Not Quite Science." The result will be a longer blog post written by everyone together, but posted by one designated author and a short class presentation of your finding on the day of the final exam.
