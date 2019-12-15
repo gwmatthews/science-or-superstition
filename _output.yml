@@ -10,8 +10,10 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       scroll_highlight: yes
-      before: null
-      after: null
+      before: |
+          <li><a href="http://gwmcubed.plymouthcreate.net/blog/"> Course blog</a></li>
+      after: |
+        <li><a href="https://bookdown.org" target="_blank">Published with bookdown</a></li>
     toolbar:
       position: float
     edit : null
