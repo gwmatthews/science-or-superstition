@@ -8,7 +8,7 @@ In the beginning of the Nineteenth Century, that is *after* the Scientific Revol
 * What is heat, why do some processes release heat and how can it be harnessed to do interesting things?
 * What is the difference between animate and inanimate things?
 
-By the end of the century all of these questions had been answered, even though the details had not yet all been worked out. But not only did this vast increase in knowledge lead to a great understanding of the material world, it was also accompanied by, led to and was helped out by a vast change in human society known as the Industrial Revolution. As compelling evidence of the scope of theses changes consider Pittsburgh, Pennsylvania at the beginning and at the end of the century. Before the scientific and technolgical changes of the Nineteenth Century Pittsburgh was a sleepy frontier town at the confluence of three rivers.
+By the end of the century all of these questions had been answered, even though the details had not yet all been worked out. But not only did this vast increase in knowledge lead to a great understanding of the material world, it was also accompanied by, led to and was helped out by a vast change in human society known as the Industrial Revolution. As compelling evidence of the scope of theses changes consider Pittsburgh, Pennsylvania at the beginning and at the end of the century. Before the scientific and technological changes of the Nineteenth Century Pittsburgh was a sleepy frontier town at the confluence of three rivers.
 
 :::{.centerpic data-latex=""}
 
@@ -22,7 +22,7 @@ View of the City of Pittsburgh in 1817 by Mrs. E. C. Gibson & William Coventry W
 
 :::
 
-Less than a century later the small frotier town had grown into an industrial city at teh heart of the American steel industry.
+Less than a century later the small frontier town had grown into an industrial city at the heart of the American steel industry.
 
 
 :::{.centerpic data-latex=""}
