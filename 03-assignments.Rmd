@@ -2,14 +2,15 @@
 
 ### Blog posts
 
-This course makes use of two websites, this one and a WordPress blog hosted by Plymouth State University which [can be found here](http://gwmcubed.plymouthcreate.net/blog/) or by following the link at the top of the table of contents or from the course Moodle page. The blog is the place where everyone who is a student in the two sections of this class will write and post original articles related to the subject matter of this course. 
+This course makes use of two websites, this one and a WordPress blog hosted by Plymouth State University which [can be found here](http://gwmcubed.plymouthcreate.net/blog/) or by following the link at the top of the table of contents or on the course page at MyPlymouth. The blog is the place where everyone who is a student in the two sections of this class will write and post original articles related to the subject matter of this course. 
 
 The assignment for your blog posts is simple:
 
 - You can write about whatever you like as long as it is **_interesting and relevant_**, and that is up to you to decide.
 - Everyone in the course will write three posts over the course of the semester according to the schedule described below.
-- Each post should be *your original work,* and not `Ctrl+c` plagiarism. The point is to reflect on what we are doing in the course on your own terms and in your own voice.
-- Each post should be in the range of 500 - 750 words and can include media such as images, videos and so on as well as links to external articles or websites. It should look good and be fun to read -- style counts!
+- Each post should be *your original work,* and not `Ctrl+c, Ctrl+v` plagiarism. The point is to reflect on what we are doing in the course on your own terms and in your own voices.
+- Each post should be in the range of 500 - 750 words and can include media such as images, videos and so on as well as links to external articles or websites. Please give credit to image sources and use images that are licensed for reuse. [Pixabay](https://pixabay.com/) and [Wiki-media Commons]() are great sources. Your posts should look good and be fun to read -- style counts!
+- See the [grading guidelines](#blog-grades) for information on how these posts will be graded.
 
 #### Posting Schedule
 

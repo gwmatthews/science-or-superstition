@@ -18,7 +18,7 @@ github-repo: "gwmatthews/science-or-superstition"
 
 ## about this book
 
-This book is a collection of readings and other resources for use in the Science or Superstition course I teach at Plymouth State University. This version is a result of a long evolution which began a number of years ago on various blogging platforms (B2evolution and then WordPress) and has steadily been moving towards a simpler version less dependant on all of the bells and whistles of dynamically generated web pages towards cleaner and faster to load static webpages. This version is, I hope, easier to use (and maintain) as well as less prone to technical difficulties. There are no databases, no plugins to add functions and much less overhead. It is hosted on GitHub pages and the source code is available in its repository in case anyone wants to use it for their own purposes.
+This book is a collection of readings and other resources for use in the Science or Superstition course I teach at Plymouth State University. This version is a result of a long process of writing, redoing and revision which began a number of years ago on various blogging platforms (B2evolution and then WordPress) and has steadily been moving towards a simpler version less dependant on all of the bells and whistles of dynamically generated web pages towards cleaner and faster to load static webpages. This version is, I hope, easier to use (and maintain) as well as less prone to technical difficulties. There are no databases, no third party plugins and much less overhead. It is hosted on GitHub pages and the source code is available in its repository in case anyone wants to use it for their own purposes.
 
 ### License CC BY-SA 4.0 {-}
 
