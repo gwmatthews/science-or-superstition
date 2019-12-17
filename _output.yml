@@ -2,7 +2,7 @@ bookdown::gitbook:
   exclude: "README.md"
   includes:
      before_body: header.html
-     after_body: utterances.html
+#     after_body: utterances.html
   css: g-style.css
   lib_dir: libs
   number_sections: FALSE

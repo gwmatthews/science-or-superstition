@@ -4,3 +4,5 @@ Welcome to the readings and resources site for Science or Superstition taught by
 
 1. There is a toolbar at the top of the page that enables you to expand or collapse the table of contents on the side, search for any keywords you like in the whole site, or change the color theme to make it easier on your eyes than the default stark white screen.
 2. You may also have noticed some icons in the top right corner pf the screen. This is the Hypothes.is tool which is embedded in this website so you can highlight parts of the text, or add comments to parts of the text or the whole page. We'll be going over how to use Hypothes.is in class, but there is also a [tutorial](#hypothes-is) in the appendix at the end of the book.
+
+

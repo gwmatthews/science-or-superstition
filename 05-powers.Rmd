@@ -7,3 +7,12 @@ This classic video is a great way to start off our explorations of science. It s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 :::
+
+
+<script src="https://utteranc.es/client.js"
+        repo="gwmatthews/ethics"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
