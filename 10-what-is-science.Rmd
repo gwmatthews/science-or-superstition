@@ -1,6 +1,6 @@
 # Part 1: What is Science? {#what-is}
 
-:::{.centerpic}
+:::{.centerpic  data-latex=""}
 ![](img/carl-sagan.jpg){width=70%}
 :::
 

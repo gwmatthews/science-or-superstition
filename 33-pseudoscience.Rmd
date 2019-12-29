@@ -14,7 +14,7 @@ The difficulty of this problem comes from the difficulty of spelling out a serie
 
 This article presents the basic question and discusses Karl Popper's famous solution to the "demarcation problem" which hinges on his idea that the best scientific theories are *not* the ones that have been somehow proven correct or verified, but the ones that *could* be but have not yet been *falsified.* That may seem like a roundabout way of talking but for Popper the crucial difference between legitimate and illegitimate approaches to science is that scientific claims take risks and so tells us something new about reality while pseudosceintific theories do not and hence never get beyond stating what their proponents already think they know.
 
-:::{.embedcard}
+:::{.embedcard  data-latex=""}
 
 <blockquote class="embedly-card"><h4><a href="https://www.scientificamerican.com/article/what-is-pseudoscience/">What Is Pseudoscience?</a></h4><p>Climate deniers are accused of practicing pseudoscience, as are intelligent design creationists, astrologers, UFOlogists, parapsychologists, practitioners of alternative medicine, and often anyone who strays far from the scientific mainstream.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -24,7 +24,7 @@ This article presents the basic question and discusses Karl Popper's famous solu
 Here is another take on the topic by Hank Green from the Crash Course video series.
 
 
-:::{.video}
+:::{.video }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-X8Xfl0JdTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

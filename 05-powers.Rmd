@@ -2,17 +2,10 @@
 
 This classic video is a great way to start off our explorations of science. It shows in a simple and stark way the vast size of the universe and the relative insignificance of human lives and concerns given this vastness, but it also demonstrates indirectly the power of scientific thinking. Science has enabled us, from our relatively insignificant and limited vantage point, to figure out the overall picture of the whole. Even if there are still may details to be figured out, and even if there is plenty that a scientific perspective *must* leave out, it is nothing short of astounding to see the sheer scope of scientific knowledge. In a relatively short period of time we have manged to figure out the basic structure of reality in the full range of scales from that of sub-atomic particles, to observable universe as a whole. 
 
-:::{.video}
+:::{.video  data-latex=""}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 :::
 
 
-<script src="https://utteranc.es/client.js"
-        repo="gwmatthews/ethics"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>

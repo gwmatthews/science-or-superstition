@@ -1,7 +1,8 @@
 bookdown::gitbook:
   exclude: "README.md"
   includes:
-     before_body: header.html
+     in_header: header.html
+     before_body: hypothesis.html
 #     after_body: utterances.html
   css: g-style.css
   lib_dir: libs
@@ -22,3 +23,18 @@ bookdown::gitbook:
     search: yes
     sharing: no
     info: no
+bookdown::pdf_book:
+  includes:
+   in_header: preamble.tex
+#   before_body: frontpage.tex
+#    after_body: latex/after_body.tex
+  keep_tex: yes
+  latex_engine: pdflatex #xelatex
+#  citation_package: natbib
+  template: null
+  pandoc_args: [--top-level-division=chapter, --wrap=none]
+  toc_depth: 3
+  toc_unnumbered: no
+  toc_appendix: yes
+  highlight_bw: yes
+  quote_footer: ["\\VA{", "}{}"]
