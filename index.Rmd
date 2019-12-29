@@ -6,8 +6,8 @@ date: "2019"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 github-repo: "gwmatthews/science-or-superstition"
-favicon: "/favicon.ico"
-apple-touch-icon: "/apple-touch-icon.png"
+favicon: "favicon.ico"
+apple-touch-icon: "apple-touch-icon.png"
 ---
 
 # PYDI 2710 @ Plymouth State {-}
