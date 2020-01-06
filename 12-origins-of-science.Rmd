@@ -1,0 +1,11 @@
+## The origins of science {#origins}
+
+Pinpointing the precise origins of something as vast and complex as the human quest to understand the world we live may seem a bit foolish. Science arguably has roots deep in human pre-history when our hominid ancestors began fashioning tools and paying attention to the large scale patterns of the environment around them. Our quest for understanding, prediction and control of the world around us led in time to the argicultural revolution some 10,000 years ago. This was when humans first settled down in permenant settlements, domesticated many animals and plants, developed agricultural understanding and techniques as well as the tools of war, trade and political authority. Clearly this assumed extensive knowledge of the world in a way not so far from what we now call science. But this knowledge was still inextricably embedded in what we will later see is called "magical thinking," the spontaneous, mythical product of our storytelling minds. It was only with the Ancient Greeks that somethng closer to the modern scientific approach first appeared. This approach starts out by accepting only more "naturalistic" accounts of natural phenomena, accounts given in terms of natural phenomena alone. While it still had elements of magical and mythical thinking within it, the naturalism of the Ancient Greeks not only set the stage for ancient and medieval science, but when it was rediscverd in the Renaissance directly inspired the leader of the Scientific Revlution of the 16th Century.
+
+CLick on the icons in this image t find out more about some of the most important figures in the development of Ancient Greek science.
+
+:::{.centerpic  data-latex=""}
+
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/783320788009746434/1024/10/scaletowidth#tl-783320788009746434;" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+
+:::

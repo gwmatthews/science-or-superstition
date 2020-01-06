@@ -1,6 +1,6 @@
 ## Assignments
 
-### Blog posts
+### Blog posts {-}
 
 This course makes use of two websites, this one and a WordPress blog hosted by Plymouth State University which [can be found here](http://gwmcubed.plymouthcreate.net/blog/) or by following the link at the top of the table of contents or on the course page at MyPlymouth. The blog is the place where everyone who is a student in the two sections of this class will write and post original articles related to the subject matter of this course. 
 
@@ -10,7 +10,18 @@ The assignment for your blog posts is simple:
 - Everyone in the course will write three posts over the course of the semester according to the schedule described below.
 - Each post should be *your original work,* and not `Ctrl+c, Ctrl+v` plagiarism. The point is to reflect on what we are doing in the course on your own terms and in your own voices.
 - Each post should be in the range of 500 - 750 words and can include media such as images, videos and so on as well as links to external articles or websites. Please give credit to image sources and use images that are licensed for reuse. [Pixabay](https://pixabay.com/) and [Wiki-media Commons]() are great sources. Your posts should look good and be fun to read -- style counts!
-- See the [grading guidelines](#blog-grades) for information on how these posts will be graded.
+
+#### Blog grading guidelines {-}
+
+- Each post is worth 10 points out of the 100 points possible in the course.
+- A 10 point post is one that is about the right length, uses images appropriately (Creative Commons or public domain images, with sources mentioned if necessary), has clickable links to other pages (if you include them) not just raw URL's, and above all is written with care and with a clear story line in your own voice.
+- Points will be subtracted for:
+   + careless, underdeveloped and unclear writing
+   + uncited image sources, or use of copyright protected material
+   + raw URL's in any links
+   + plagiarized writing -- this assignment is not about learning how to copy and paste
+   + missing deadlines as listed on the [calendar](#calendar)
+
 
 #### Posting Schedule
 
@@ -23,7 +34,7 @@ Everyone in the course will be randomly assigned to one of eight different group
 
 Hypothes.is is a free tool designed to enable you to take notes on any page out there on the web, organize and find your notes, and engage in discussion with other not takers. We will have a class workshop on how to use it, but for reference there is also a [tutorial here](#hypothes-is).
 
-Your assignment is to use this tool to make notes on *any two pages every week* here on this site or linked to from this site as external reading material. Your notes can take the form of "annotations," where you comment on a particular section of text, "page notes" which connect to the page but not any particular part, or reponses to anyone else's annotations or page notes.
+Your assignment is to use this tool to make notes on *any two pages every week* here on this site or linked to from this site as external reading material. Your notes can take the form of "annotations," where you comment on a particular section of text, "page notes" which connect to the page but not any particular part, or responses to anyone else's annotations or page notes.
 
 **All notes and responses should take place within the SOS\@PSU private group** and will only by visible by other members of that group which is restricted to me and the people in this course.
 
@@ -33,4 +44,4 @@ There are five case studies that you will work on in class with your groups, one
 
 ### Group project
 
-Each group will work together on a longer term project involving the investtigation and critical analysis of some area of "Not Quite Science." The result will be a longer blog post written by everyone together, but posted by one designated author and a short class presentation of your finding on the day of the final exam.
+Each group will work together on a longer term project involving the investigation and critical analysis of some area of "Not Quite Science." The result will be a longer blog post written by everyone together, but posted by one designated author and a short class presentation of your finding on the day of the final exam.
