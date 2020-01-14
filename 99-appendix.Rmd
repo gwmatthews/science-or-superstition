@@ -1,4 +1,25 @@
-# Appendix: Using Hypothes.is {- #appendix}
+# How To
+
+:::{.centerpic  data-latex=""}
+
+![](https://imgs.xkcd.com/comics/rtfm.png){width=40%}
+
+:::
+
+:::{.centercap data-latex=""}
+
+[xkcd](https://xkcd.com/){target="_blank"}
+
+:::
+
+It's always best to read the manual. Here's how to:
+
+- [write a blog post](#blog)
+- [use Hypothes.is](#hypothes-is)
+
+## Write a blog post {#blog}
+
+## Use Hypothes.is {#hypothes-is}
 
 #### 1. What is it? {-}
 

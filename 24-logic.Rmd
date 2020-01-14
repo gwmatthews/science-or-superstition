@@ -1,1 +1,1 @@
-## Logic: the basics
+## Logic: the basics {#logic}
