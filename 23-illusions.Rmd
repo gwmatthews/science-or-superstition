@@ -1,3 +1,41 @@
 ## Visual Illusions
 
-If scientific knowledge is ultimately based on observation this presents us with a puzzle. How do we deal with cases where our eyes fool us?
+:::{.centerpic}
+
+![](img/illusions/penrose-triangle-illusion-gif.gif){width=35%}
+
+:::
+
+:::{.centercap}
+
+[buzzfeed](http://www.buzzfeed.com/kellyoakes/captivating-optical-illusion-gifs-that-will-make-your-brain#2dclu9p)
+
+:::
+
+If scientific knowledge is ultimately based on observation this presents us with a puzzle. Observation inevitably shows us what things look like from a certain perspective, from within the limitations of our senses. But then how can we ever figure out whether our observations are accurate or not? If our senses distort reality, how can we use the information we get from them to see things as they really are? One part of the answer to this puzzle is that we if we can figure out how our senses work we can take into account the distortions that they may cause -- if you know that your glasses give everything a greenish tint you won't worry too much about the sickly color of your friends' skin. But then how can we figure out how the senses work if we have to rely on them for information in the first place? How can we see the way they work from inside?
+
+One way to start to do this is by paying attention to the ways in which they fail -- where things appear to the senses in ways that we can measure and show to be wrong. And it turns out that there are many ways in which our senses fail and these provide important clues for understanding how they work. What I'd like to focus on here are visual or optical illusions both as examples showing how particular aspects of of visual systems work and as a way of suggesting how we might approach broader failures of our minds to get an accurate picture of reality. By seeing examples of how our visual systems fail under certain circumstances we can catch a glimpse of their inner workings. And while we may never be able to fix these failures, since they are to a certain degree "built-in" at least we can take account of their distortions as we try to piece together a more accurate account of reality. In addition we can come to appreciate how it is that our minds work and how this same situation might affect not only the way we *see* things, but also the ways in which we make sense of things. If seeing involves detecting patterns in the vast amount of data entering our senses, conceptualizing and higher level thinking involves detecting more abstract patterns still. We will be seeing later how it is that not only are our senses subject to distortion and illusion, but our more abstract mental capacities are likewise subject to illusions. We often fail to see things accurately and we also often fail to "think straight." Appreciating how this works is the first step in coming to figure out what is really going on and what is merely a distortion of the glasses we happen to be wearing.
+
+:::{.centerpic}
+
+![](img/illusions/block-illusion-gif.gif){width=40%}
+
+:::
+
+:::{.centercap}
+
+[imgur](https://i.imgur.com/5WOe7kS.jpg&v=FavUpD_IjVY)
+
+:::
+
+The following page has wide range of different optical illusions and is well worth exploring to get a sense of the variety of ways in which our senses can give us a distorted picture of things.
+
+:::{.embedcard}
+<a class="embedly-card" href="https://michaelbach.de/ot/">136 Visual Phenomena & Optical Illusions</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+:::
+
+And here is a short account of the mechanism involved in many illusions -- it's all about mismatched templates...
+
+:::{.embedcard}
+<a class="embedly-card" href="https://www.psychologytoday.com/us/blog/theory-knowledge/201305/perception-and-perceptual-illusions">Perception and Perceptual Illusions</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+:::
