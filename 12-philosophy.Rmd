@@ -1,0 +1,6 @@
+## Philosophy, skepticism and science {#philosophy}
+
+:::{.slides  data-latex=""}
+<iframe src="https://gwmatthews.github.io/science-slideshows/01-slides.html" width="100%">
+</iframe>
+:::
