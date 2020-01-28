@@ -4,3 +4,7 @@
 <iframe src="https://gwmatthews.github.io/science-slideshows/01-slides.html" width="100%">
 </iframe>
 :::
+
+[download](https://gwmatthews.github.io/science-slideshows/pdf/01-slides.pdf)
+
+[print](https://gwmatthews.github.io/science-slideshows/pdf/01-handout.pdf)
